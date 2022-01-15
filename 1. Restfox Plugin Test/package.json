@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "quickjs-emscripten": "^0.15.0",
+    "quickjs-emscripten-sync": "^1.2.0"
+  }
+}
